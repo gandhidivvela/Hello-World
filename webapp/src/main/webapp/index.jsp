@@ -1,16 +1,10 @@
-<h1> Hello All, Welcome to Harsha Trainings !!! </h1>
-
-
-
-
-
-
+<h1> Welcome to new DevOps project </h1>
 
 <h1> Changes from local WS </h1>
 
 
 
-<h1> All the best.................... </h1>
+<h1> Job Submitted and Executed Successfully...................... </h1>
 
 
 
